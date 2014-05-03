@@ -1,3 +1,4 @@
+
 body {
 	margin-top: 30px;
 }
@@ -21,11 +22,11 @@ h2.page-header {
 	padding-bottom: 20px;
 }
 
-.row {
+.container {
 	text-align: center;
 }
 
-.row>#intro {
+.text-left {
 	text-align: left;
 }
 
@@ -41,4 +42,18 @@ h2.page-header {
 	height: 50px;
 	width: 50px;
 	opacity: 0.5;
+}
+
+.work-hidden {
+	display: none;
+}
+
+#work>.row>div {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#work img {
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
