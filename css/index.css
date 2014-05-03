@@ -27,6 +27,8 @@ h2.page-header {
 }
 
 .link-img {
+	margin-top: 5px;
+	margin-bottom: 5px;
 	height: 50px;
 	width: 50px;
 	opacity: 0.5;
