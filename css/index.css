@@ -1,6 +1,15 @@
-
 body {
-	margin-top: 100px;
+	margin-top: 40px;
+}
+@media (min-width: 768px) {
+	body {
+		margin-top: 70px;
+	}
+}
+@media (min-width: 992px) {
+	body {
+		margin-top: 100px;
+	}
 }
 
 .intro-img {
