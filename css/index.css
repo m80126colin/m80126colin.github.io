@@ -1,0 +1,27 @@
+
+body {
+	margin-top: 100px;
+}
+
+
+h2.page-header {
+	padding-bottom: 20px;
+}
+
+.row {
+	text-align: center;
+}
+
+.row>#intro {
+	text-align: left;
+}
+
+.vcenter {
+	display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.height-full {
+	height: 100%;
+}
